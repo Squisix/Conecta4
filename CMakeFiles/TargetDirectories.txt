@@ -1,0 +1,3 @@
+C:/Users/acer/CLionProjects/Conecta4/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/acer/CLionProjects/Conecta4/cmake-build-debug-mingw/CMakeFiles/Conecta4.dir
+C:/Users/acer/CLionProjects/Conecta4/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+C:\Users\acer\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6911.21\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug set(CMAKE_EXE_LINKER_FLAGS -static) -G "CodeBlocks - MinGW Makefiles" C:\Users\acer\CLionProjects\Conecta4
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/acer/CLionProjects/Conecta4/cmake-build-debug-mingw
